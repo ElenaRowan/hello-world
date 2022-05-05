@@ -1,2 +1,4 @@
 # hello-world
-First repository
+First repository [^1]
+
+[^1]: The very first.
